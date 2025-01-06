@@ -1,0 +1,88 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
+{
+  index.js
+  commant {
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+  }
+  {
+    {
+      "name": "name",
+      "description": "description",
+      "authors": "author",
+      "version": "1.0.0",
+      "main": "pathToMain",
+      "dependencies": {}
+    }
+  }
+  {
+    {
+      {
+        "name": "name",
+        "description": "description",
+        "authors": "author",
+        "version": "1.0.0",
+        "main": "pathToMain",
+        "dependencies": {}
+      }
+    }
+  }
+  {
+    {
+      {
+        "name": "name",
+        "description": "description",
+        "authors": "author",
+        "version": "1.0.0",
+        "main": "pathToMain",
+        "dependencies": {}
+      }
+    }
+  }
+  {
+    {
+      {
+        "name": "name",
+        "description": "description",
+        "authors": "author",
+        "version": "1.0.0",
+        "main": "pathToMain",
+        "dependencies": {}
+      }
+    }
+  }
+}
+{
+  {
+    {
+      "name": "name",
+      "description": "description",
+      "authors": "author",
+      "version": "1.0.0",
+      "main": "pathToMain",
+      "dependencies": {}
+    }
+  }
+}
+
+
+
